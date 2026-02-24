@@ -1,0 +1,41 @@
+{
+    "predict_time": "2026-02-24 23:01:49",
+    "image_path": "D:/HuaweiMoveData/Users/19243/Desktop/CCMT Dataset-Augmented/Cashew/test_set/anthracnose/2cashew_valid_anthracnose.JPG",
+    "top1_result": {
+        "class_name": "cassava_healthy",
+        "confidence": "18.28%",
+        "knowledge": {
+            "name": "木薯健康植株",
+            "symptom": "茎秆粗壮，叶片浓绿，无病虫害",
+            "control": "常规田间管理，定期施肥",
+            "severity": "无"
+        }
+    },
+    "top5_results": [
+        {
+            "rank": 1,
+            "class_name": "cassava_healthy",
+            "confidence": "18.28%"
+        },
+        {
+            "rank": 2,
+            "class_name": "cashew_leaf_miner",
+            "confidence": "12.12%"
+        },
+        {
+            "rank": 3,
+            "class_name": "cassava_bacterial_blight",
+            "confidence": "11.26%"
+        },
+        {
+            "rank": 4,
+            "class_name": "cassava_mosaic",
+            "confidence": "11.03%"
+        },
+        {
+            "rank": 5,
+            "class_name": "cassava_green_mite",
+            "confidence": "9.46%"
+        }
+    ]
+}
