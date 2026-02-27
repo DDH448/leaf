@@ -1,0 +1,36 @@
+{
+    "timestamp": "20260227_180559",
+    "predict_result": [
+        {
+            "rank": 1,
+            "class": "cassava_green_mite",
+            "confidence": 0.21229812502861023,
+            "confidence_str": "21.23%"
+        },
+        {
+            "rank": 2,
+            "class": "cassava_healthy",
+            "confidence": 0.2021743357181549,
+            "confidence_str": "20.22%"
+        },
+        {
+            "rank": 3,
+            "class": "cashew_red_rust",
+            "confidence": 0.13459090888500214,
+            "confidence_str": "13.46%"
+        },
+        {
+            "rank": 4,
+            "class": "cashew_gumosis",
+            "confidence": 0.10953852534294128,
+            "confidence_str": "10.95%"
+        },
+        {
+            "rank": 5,
+            "class": "cashew_anthracnose",
+            "confidence": 0.06888406723737717,
+            "confidence_str": "6.89%"
+        }
+    ],
+    "image_path": "predict_backup\\predict_20260227_180559.png"
+}
