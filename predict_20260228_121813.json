@@ -1,0 +1,36 @@
+{
+    "timestamp": "20260228_121813",
+    "predict_result": [
+        {
+            "rank": 1,
+            "class": "cashew_leaf_miner",
+            "confidence": 0.3638131618499756,
+            "confidence_str": "36.38%"
+        },
+        {
+            "rank": 2,
+            "class": "cashew_gumosis",
+            "confidence": 0.1364499032497406,
+            "confidence_str": "13.64%"
+        },
+        {
+            "rank": 3,
+            "class": "cassava_mosaic",
+            "confidence": 0.12631680071353912,
+            "confidence_str": "12.63%"
+        },
+        {
+            "rank": 4,
+            "class": "cashew_healthy",
+            "confidence": 0.08672494441270828,
+            "confidence_str": "8.67%"
+        },
+        {
+            "rank": 5,
+            "class": "cassava_bacterial_blight",
+            "confidence": 0.06841838359832764,
+            "confidence_str": "6.84%"
+        }
+    ],
+    "image_path": "predict_backup\\predict_20260228_121813.png"
+}
