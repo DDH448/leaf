@@ -1,0 +1,36 @@
+{
+    "timestamp": "20260228_120828",
+    "predict_result": [
+        {
+            "rank": 1,
+            "class": "cashew_healthy",
+            "confidence": 0.3053370416164398,
+            "confidence_str": "30.53%"
+        },
+        {
+            "rank": 2,
+            "class": "cassava_bacterial_blight",
+            "confidence": 0.14617742598056793,
+            "confidence_str": "14.62%"
+        },
+        {
+            "rank": 3,
+            "class": "cassava_brown_spot",
+            "confidence": 0.11072621494531631,
+            "confidence_str": "11.07%"
+        },
+        {
+            "rank": 4,
+            "class": "cassava_green_mite",
+            "confidence": 0.11070148646831512,
+            "confidence_str": "11.07%"
+        },
+        {
+            "rank": 5,
+            "class": "cassava_healthy",
+            "confidence": 0.0909431129693985,
+            "confidence_str": "9.09%"
+        }
+    ],
+    "image_path": "predict_backup\\predict_20260228_120828.png"
+}
