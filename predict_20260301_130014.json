@@ -1,0 +1,36 @@
+{
+    "timestamp": "20260301_130014",
+    "predict_result": [
+        {
+            "rank": 1,
+            "class": "cassava_mosaic",
+            "confidence": 0.39306533336639404,
+            "confidence_str": "39.31%"
+        },
+        {
+            "rank": 2,
+            "class": "cassava_brown_spot",
+            "confidence": 0.0979151576757431,
+            "confidence_str": "9.79%"
+        },
+        {
+            "rank": 3,
+            "class": "cassava_green_mite",
+            "confidence": 0.09584690630435944,
+            "confidence_str": "9.58%"
+        },
+        {
+            "rank": 4,
+            "class": "cassava_healthy",
+            "confidence": 0.07036367058753967,
+            "confidence_str": "7.04%"
+        },
+        {
+            "rank": 5,
+            "class": "cashew_leaf_miner",
+            "confidence": 0.06964123994112015,
+            "confidence_str": "6.96%"
+        }
+    ],
+    "image_path": "predict_backup\\predict_20260301_130014.png"
+}
