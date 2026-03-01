@@ -1,0 +1,36 @@
+{
+    "timestamp": "20260301_094842",
+    "predict_result": [
+        {
+            "rank": 1,
+            "class": "cashew_healthy",
+            "confidence": 0.12852539122104645,
+            "confidence_str": "12.85%"
+        },
+        {
+            "rank": 2,
+            "class": "cashew_anthracnose",
+            "confidence": 0.07833665609359741,
+            "confidence_str": "7.83%"
+        },
+        {
+            "rank": 3,
+            "class": "cashew_leaf_miner",
+            "confidence": 0.0611783042550087,
+            "confidence_str": "6.12%"
+        },
+        {
+            "rank": 4,
+            "class": "tomato_septoria_leaf_spot",
+            "confidence": 0.06104227900505066,
+            "confidence_str": "6.10%"
+        },
+        {
+            "rank": 5,
+            "class": "tomato_leaf_curl",
+            "confidence": 0.061005786061286926,
+            "confidence_str": "6.10%"
+        }
+    ],
+    "image_path": "predict_backup\\predict_20260301_094842.png"
+}
