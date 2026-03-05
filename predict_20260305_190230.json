@@ -1,0 +1,36 @@
+{
+    "timestamp": "20260305_190230",
+    "predict_result": [
+        {
+            "rank": 1,
+            "class": "cashew_healthy",
+            "confidence": 0.11321721971035004,
+            "confidence_str": "11.32%"
+        },
+        {
+            "rank": 2,
+            "class": "cassava_healthy",
+            "confidence": 0.06644657999277115,
+            "confidence_str": "6.64%"
+        },
+        {
+            "rank": 3,
+            "class": "cashew_leaf_miner",
+            "confidence": 0.0650942251086235,
+            "confidence_str": "6.51%"
+        },
+        {
+            "rank": 4,
+            "class": "tomato_healthy",
+            "confidence": 0.06493165343999863,
+            "confidence_str": "6.49%"
+        },
+        {
+            "rank": 5,
+            "class": "tomato_leaf_curl",
+            "confidence": 0.06451122462749481,
+            "confidence_str": "6.45%"
+        }
+    ],
+    "image_path": "predict_backup\\predict_20260305_190230.png"
+}
