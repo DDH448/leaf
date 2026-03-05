@@ -1,0 +1,36 @@
+{
+    "timestamp": "20260305_184205",
+    "predict_result": [
+        {
+            "rank": 1,
+            "class": "tomato_leaf_blight",
+            "confidence": 0.10568021237850189,
+            "confidence_str": "10.57%"
+        },
+        {
+            "rank": 2,
+            "class": "cashew_anthracnose",
+            "confidence": 0.0939515009522438,
+            "confidence_str": "9.40%"
+        },
+        {
+            "rank": 3,
+            "class": "tomato_septoria_leaf_spot",
+            "confidence": 0.06320060789585114,
+            "confidence_str": "6.32%"
+        },
+        {
+            "rank": 4,
+            "class": "tomato_leaf_curl",
+            "confidence": 0.06159710884094238,
+            "confidence_str": "6.16%"
+        },
+        {
+            "rank": 5,
+            "class": "cashew_leaf_miner",
+            "confidence": 0.06142103672027588,
+            "confidence_str": "6.14%"
+        }
+    ],
+    "image_path": "predict_backup\\predict_20260305_184205.png"
+}
