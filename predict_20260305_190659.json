@@ -1,0 +1,36 @@
+{
+    "timestamp": "20260305_190659",
+    "predict_result": [
+        {
+            "rank": 1,
+            "class": "cashew_anthracnose",
+            "confidence": 0.10602614283561707,
+            "confidence_str": "10.60%"
+        },
+        {
+            "rank": 2,
+            "class": "cassava_healthy",
+            "confidence": 0.0744192823767662,
+            "confidence_str": "7.44%"
+        },
+        {
+            "rank": 3,
+            "class": "tomato_septoria_leaf_spot",
+            "confidence": 0.0662752166390419,
+            "confidence_str": "6.63%"
+        },
+        {
+            "rank": 4,
+            "class": "tomato_leaf_blight",
+            "confidence": 0.06522944569587708,
+            "confidence_str": "6.52%"
+        },
+        {
+            "rank": 5,
+            "class": "cassava_mosaic",
+            "confidence": 0.06442741304636002,
+            "confidence_str": "6.44%"
+        }
+    ],
+    "image_path": "predict_backup\\predict_20260305_190659.png"
+}
