@@ -1,0 +1,36 @@
+{
+    "timestamp": "20260318_122751",
+    "predict_result": [
+        {
+            "rank": 1,
+            "class": "cassava_healthy",
+            "confidence": 0.09498268365859985,
+            "confidence_str": "9.50%"
+        },
+        {
+            "rank": 2,
+            "class": "cassava_bacterial_blight",
+            "confidence": 0.07360003888607025,
+            "confidence_str": "7.36%"
+        },
+        {
+            "rank": 3,
+            "class": "cassava_green_mite",
+            "confidence": 0.06880059093236923,
+            "confidence_str": "6.88%"
+        },
+        {
+            "rank": 4,
+            "class": "tomato_healthy",
+            "confidence": 0.06789025664329529,
+            "confidence_str": "6.79%"
+        },
+        {
+            "rank": 5,
+            "class": "cassava_mosaic",
+            "confidence": 0.06784341484308243,
+            "confidence_str": "6.78%"
+        }
+    ],
+    "image_path": "predict_backup\\predict_20260318_122751.png"
+}
