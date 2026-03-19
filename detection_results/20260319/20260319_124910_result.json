@@ -1,0 +1,7 @@
+{
+    "timestamp": "20260319_124910",
+    "device": "cpu",
+    "detect_class": "cashew_healthy",
+    "accuracy": "86.87%",
+    "local_path": "D:\\Users\\19243\\PycharmProjects\\pythonProject4\\detection_backup\\20260319\\20260319_124910_original.jpg"
+}
