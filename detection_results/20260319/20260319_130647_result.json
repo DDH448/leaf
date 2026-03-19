@@ -1,0 +1,7 @@
+{
+    "timestamp": "20260319_130647",
+    "device": "cpu",
+    "detect_class": "cassava_bacterial_blight",
+    "accuracy": "99.88%",
+    "local_path": "D:\\Users\\19243\\PycharmProjects\\pythonProject4\\detection_backup\\20260319\\20260319_130647_original.jpg"
+}
