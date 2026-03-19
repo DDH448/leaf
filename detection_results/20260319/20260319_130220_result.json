@@ -1,0 +1,7 @@
+{
+    "timestamp": "20260319_130220",
+    "device": "cpu",
+    "detect_class": "tomato_septoria_leaf_spot",
+    "accuracy": "52.72%",
+    "local_path": "D:\\Users\\19243\\PycharmProjects\\pythonProject4\\detection_backup\\20260319\\20260319_130220_original.jpg"
+}
