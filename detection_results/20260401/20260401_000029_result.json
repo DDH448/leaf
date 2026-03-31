@@ -1,0 +1,7 @@
+{
+    "timestamp": "20260401_000029",
+    "device": "cpu",
+    "detect_class": "cashew_leaf_miner",
+    "accuracy": "99.85%",
+    "local_path": "D:\\Users\\19243\\PycharmProjects\\pythonProject4\\detection_backup\\20260401\\20260401_000029_original.jpg"
+}
