@@ -1,0 +1,7 @@
+{
+    "timestamp": "20260414_124902",
+    "device": "cpu",
+    "detect_class": "tomato_leaf_curl",
+    "accuracy": "95.99%",
+    "local_path": "D:\\Users\\19243\\PycharmProjects\\pythonProject4\\detection_backup\\20260414\\20260414_124902_original.jpg"
+}
