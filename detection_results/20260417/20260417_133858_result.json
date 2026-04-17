@@ -1,0 +1,7 @@
+{
+    "timestamp": "20260417_133858",
+    "device": "cpu",
+    "detect_class": "cassava_brown_spot",
+    "accuracy": "98.45%",
+    "local_path": "D:\\Users\\19243\\PycharmProjects\\pythonProject4\\detection_backup\\20260417\\20260417_133858_original.jpg"
+}
