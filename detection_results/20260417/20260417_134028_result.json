@@ -1,0 +1,7 @@
+{
+    "timestamp": "20260417_134028",
+    "device": "cpu",
+    "detect_class": "tomato_leaf_blight",
+    "accuracy": "97.67%",
+    "local_path": "D:\\Users\\19243\\PycharmProjects\\pythonProject4\\detection_backup\\20260417\\20260417_134028_original.jpg"
+}
